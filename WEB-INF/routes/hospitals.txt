@@ -1,0 +1,54 @@
+<Name,latitude,longitude>
+
+Jabalpur Hospital & Research Center
+4th Bridge Road,Russel Crossing, Napier Town,Jabalpur, Madhya Pradesh,482002, 4th Bridge Rd, Napier Town, Jabalpur, MP 482001, India ?
++91 76 12 450761 ? · jabalpurhospital.in 
+23.161974   79.936416
+
+Bombay Hospital & Research Center Jabalpur
+Khandwa, Jabalpur, MP, India ?
++91 76 12 410202
+23.168270  79.928444
+
+Marble City Hospital
+North Civil Lines, Jabalpur, MP, 482001, Civil Lines, Jabalpur, MP 482001, India ?
++91 76 12 628154
+23.164415  79.950048
+
+ Swastik Multispecialty Hospital and Research Centre
+Madhya Pradesh State Highway 37, Vijay Nagar, Raksha, MP 482002, India ?
++91 76 12 640639 ? · swastikhospitaljbp.com
+23.194023  79.912512
+
+ Dube Surgical and Dental Hospital
+Belbaag-Gurandi Rd, Anwar Ganj, Jabalpur, MP 482002, India ?
++91 97 13 955558 ? · dsdhospital.com
+
+ Dube Surgical and Dental Hospital
+Belbaag-Gurandi Rd, Anwar Ganj, Jabalpur, MP 482002, India ?
++91 97 13 955558 ? · dsdhospital.com
+23.175970  79.946318
+
+
+
+//OTHER REOURCES
+
+AIRPORT :  
+Jabalpur Airport
+Jabalpur, Madhya Pradesh, 482005, India ?
++91 76 12 603452 ? · aai.aero 
+23.184171  80.059291
+
+BUS STAND:
+23.187728 79.929720
+
+RAILWAY STATION : 
+ Jabalpur Junction Railway Station
+Tagore Railway Colony, Civil Lines, Jabalpur, MP 482001, India
+23.164805   79.950397
+
+HIGH COURT:
+ High Court of Madhya Pradesh
+Civil Lines, Jabalpur, MP 482007, India ?
++91 76 12 620380 ext. 2622674 ? · mphighcourt.nic.in 
+23.168307  79.947600

@@ -1,0 +1,133 @@
+//bus route 3 (medical college to railway station platform 4)
+
+//code
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Medical+College+Colony,+Jabalpur,+Madhya+Pradesh,+India&amp;daddr=23.1552812,79.8745271+to:23.164319,79.906849+to:23.1928786,79.9153267+to:23.178199,79.9252365+to:23.1850481,79.9294259+to:23.1680648,79.9242462+to:23.1660137,79.9321082+to:Railway+Station+City+Bus+Terminal,+Civil+Lines,+Jabalpur,+Madhya+Pradesh,+India&amp;hl=en&amp;geocode=FU9HYQEdG9rCBCmNcbK0gLGBOTGssSt42zcgPQ%3BFVFSYQEd38nCBClHHo7dgbGBOTEwggBlSjTNlA%3BFZ91YQEdIUjDBCnPL-Qe8LGBOTFulEv574YBlw%3BFS7lYQEdPmnDBClny3Dr1rGBOTGng18HptP0CA%3BFderYQEd9I_DBCkPcJcEIq6BOTHvZ4Ji9_lxqA%3BFZjGYQEdUaDDBCmdBvK-JK6BOTHal9gj9es1Bw%3BFUCEYQEdFozDBCnZqH-FHK6BOTHn3FgBS6_fIQ%3BFT18YQEdzKrDBCkRA4XfD66BOTFTX4BKBMqsuA%3BFel8YQEdD_XDBClV_tE-cK6BOTGjZB5fItZUkw&amp;aq=1&amp;oq=railwayl,+Jabalpur,+Madhya+Pradesh,+India&amp;sll=23.173228,79.921331&amp;sspn=0.026828,0.049095&amp;mra=dpe&amp;mrsp=6&amp;sz=15&amp;via=1,2,3,4,5,6,7&amp;ie=UTF8&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Medical+College+Colony,+Jabalpur,+Madhya+Pradesh,+India&amp;daddr=23.1552812,79.8745271+to:23.164319,79.906849+to:23.1928786,79.9153267+to:23.178199,79.9252365+to:23.1850481,79.9294259+to:23.1680648,79.9242462+to:23.1660137,79.9321082+to:Railway+Station+City+Bus+Terminal,+Civil+Lines,+Jabalpur,+Madhya+Pradesh,+India&amp;hl=en&amp;geocode=FU9HYQEdG9rCBCmNcbK0gLGBOTGssSt42zcgPQ%3BFVFSYQEd38nCBClHHo7dgbGBOTEwggBlSjTNlA%3BFZ91YQEdIUjDBCnPL-Qe8LGBOTFulEv574YBlw%3BFS7lYQEdPmnDBClny3Dr1rGBOTGng18HptP0CA%3BFderYQEd9I_DBCkPcJcEIq6BOTHvZ4Ji9_lxqA%3BFZjGYQEdUaDDBCmdBvK-JK6BOTHal9gj9es1Bw%3BFUCEYQEdFozDBCnZqH-FHK6BOTHn3FgBS6_fIQ%3BFT18YQEdzKrDBCkRA4XfD66BOTFTX4BKBMqsuA%3BFel8YQEdD_XDBClV_tE-cK6BOTGjZB5fItZUkw&amp;aq=1&amp;oq=railwayl,+Jabalpur,+Madhya+Pradesh,+India&amp;sll=23.173228,79.921331&amp;sspn=0.026828,0.049095&amp;mra=dpe&amp;mrsp=6&amp;sz=15&amp;via=1,2,3,4,5,6,7&amp;ie=UTF8&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+//route details
+Suggested routes
+
+    18.0 km, 36 mins
+    MP SH 37A
+
+Driving directions to Railway Station City Bus Terminal
+Via NH 12A, MP SH 22, Unknown road, MP SH 37A, MP SH 37A, MP SH 37A, Unknown road - remove all
+	
+Medical College Colony
+Jabalpur, Madhya Pradesh, India
+	
+	1. Head northwest on NH 12A 	
+	
+	
+600 m
+	2. Turn right at Dhanwantri Nagar Chowk
+onto MP SH 22
+Pass by Durga Mndir
+(on the left in 1.6 km)
+	
+	
+	
+1.9 km
+	3. Turn left at Panda Ki Madhiya
+to stay on MP SH 22
+	
+	
+	
+2.0 km
+	4. At the roundabout, take the 1st exit 	
+	
+	
+500 m
+	5. Turn left onto MR-4 Rd
+Pass by The National Drycleaner
+(on the left)
+	
+	
+	
+91 m
+	6. Take the 1st left
+to stay on MR-4 Rd
+Go through 2 roundabouts
+Pass by Narmada Hospital
+(on the left in 1.3 km)
+	
+	
+	
+3.2 km
+	7. At the roundabout, exit
+onto MP SH 37/MP SH 37A
+Pass by Deen Dayal Hospital
+(on the left)
+	
+	
+	
+1.9 km
+	8. Turn right onto MP SH 37A 	
+	
+	
+900 m
+	9. Make a U-turn at Ukhri Rd 	
+	
+	
+950 m
+	10. Turn right onto MP SH 37/MP SH 37A 	
+	
+	
+9 m
+	11. Turn right onto MP SH 37A
+Pass by the Gupta sweets
+(on the left in 2.0 km)
+	
+	
+	
+2.0 km
+	12. At the roundabout, take the 1st exit
+to stay on MP SH 37A
+Pass by Maharashtra High School
+(on the left in 550 m)
+	
+	
+	
+850 m
+	13. Turn right at Yatayat Police Chowki
+onto MP SH 22
+Pass by Gurudwara Marahatal
+(on the left)
+	
+	
+	
+270 m
+	14. At the roundabout, take the 1st exit
+onto Naudra Bridge
+Pass by 3-Patti Petrol Station
+(on the left)
+	
+	
+	
+350 m
+	15. At the roundabout, take the 1st exit 	
+	
+	
+500 m
+	16. Turn right at Karamchand Chowk
+onto MP SH 22/MP SH 37A
+Go through 2 roundabouts
+Pass by Khandelwal Furniture Mall
+(on the left)
+	
+	
+	
+1.7 km
+	17. Turn right 	
+	
+	
+160 m
+	18. Turn left
+Destination will be on the right
+	
+	
+	
+56 m
+	
+Railway Station City Bus Terminal
+Civil Lines
+Jabalpur, MP 482001, India
